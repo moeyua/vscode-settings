@@ -1,4 +1,16 @@
 {
+  "file-meta": {
+	"scope": "javascript,typescript,vue",
+    "description": "File meta",
+    "prefix": "meta",
+    "body": [
+      "<!--",
+      " * @FileDescription: $1",
+      " * @Author: Moeyua",
+      " * @Date: ${CURRENT_YEAR}/${CURRENT_MONTH}/${CURRENT_DATE},",
+      "-->"
+    ]
+  },
   "import": {
     "scope": "javascript,typescript",
     "prefix": "im",
@@ -54,16 +66,6 @@
       "watchEffect(() => {",
       "  $1",
       "})"
-    ]
-  },
-  "if-vitest": {
-    "scope": "javascript,typescript",
-    "prefix": "ifv",
-    "body": [
-      "if (import.meta.vitest) {",
-      "  const { describe, it, expect } = import.meta.vitest",
-      "  ${1}",
-      "}"
     ]
   },
   "markdown-api-table": {
