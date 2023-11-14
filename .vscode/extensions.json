@@ -1,39 +1,35 @@
 {
   "recommendations": [
-    // my extensions, ofc :P
+    // Personal
     "antfu.browse-lite",
     "antfu.iconify",
-    "antfu.slidev",
-    "antfu.unocss",
-    "antfu.vite",
-    "antfu.where-am-i",
-    "antfu.open-in-github-button",
-    "lokalise.i18n-ally",
-
-    // themes & icons
     "antfu.icons-carbon",
     "antfu.theme-vitesse",
+    "antfu.where-am-i",
     "file-icons.file-icons",
-    "sainnhe.gruvbox-material",
-
-    // life savers!
-    "dbaeumer.vscode-eslint",
-    "Vue.volar",
     "GitHub.copilot",
-    "usernamehw.errorlens",
+    "redjue.git-commit-plugin",
+    "richie5um2.vscode-sort-json",
     "streetsidesoftware.code-spell-checker",
+    "Tyriar.sort-lines",
+    "usernamehw.errorlens",
+    "yzhang.markdown-all-in-one",
 
-    // up to you
-    "amodio.tsl-problem-matcher",
+    // Vue3 + Vite + TS
+    "antfu.goto-alias",
+    "antfu.unocss",
+    "antfu.vite",
+    "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
     "EditorConfig.EditorConfig",
-    "GitHub.vscode-pull-request-github",
-    "mpontus.tab-cycle",
-    "naumovs.color-highlight",
-    "richie5um2.vscode-sort-json",
-    "unional.vscode-sort-package-json",
-    "voorjaar.windicss-intellisense",
-    "WakaTime.vscode-wakatime",
-    "znck.grammarly"
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+
+    // Astro
+    "astro-build.astro-vscode",
+    "unifiedjs.vscode-mdx",
+
+    // Vue2
+    "octref.vetur"
   ]
 }
